@@ -1,7 +1,7 @@
 # 🎧 FPGA Based Secure Audio Steganography System
 
 <p align="center">
-  <img src="IMAGES/block_diagram.png" width="800">
+  <img src="IMAGES/BLOCKDIAGRAM.png" width="800">
 </p>
 
 ---
