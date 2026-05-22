@@ -253,7 +253,7 @@ The waveform verifies:
 # 🎯 Hardware Demonstration
 
 <p align="center">
-  <img src="IMAGES/edge-FPGA.png" width="700">
+  <img src="IMAGES/zynq-FPGA.png" width="700">
 </p>
 
 ### FPGA Verification:
