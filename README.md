@@ -1,7 +1,7 @@
 # 🎧 FPGA Based Secure Audio Steganography System
 
 <p align="center">
-  <img src="IMAGES/BLOCK DIAGRAM.png" width="800">
+  <img src="IMAGES/NEW1.png" width="800">
 </p>
 
 ---
@@ -61,7 +61,7 @@ The FPGA checks the entered key:
 # ⚙️ Complete System Flow
 
 <p align="center">
-  <img src="IMAGES/system_flow.png" width="850">
+  <img src="IMAGES/BLOCK DIAGRAM.png" width="850">
 </p>
 
 ```text
@@ -239,7 +239,7 @@ pins.
 # 📊 Simulation Results
 
 <p align="center">
-  <img src="IMAGES/waveform.png" width="900">
+  <img src="IMAGES/WF1.png" width="900">
 </p>
 
 The waveform verifies:
@@ -253,7 +253,7 @@ The waveform verifies:
 # 🎯 Hardware Demonstration
 
 <p align="center">
-  <img src="IMAGES/edge_z7_board.png" width="700">
+  <img src="IMAGES/edge-FPGA.png" width="700">
 </p>
 
 ### FPGA Verification:
@@ -282,20 +282,3 @@ The waveform verifies:
 ✅ Multi-Level Audio Security  
 ✅ AI-Based Steganography Detection  
 
----
-
-# 👨‍💻 Author
-
-## Thota Mouli Krishna Sai
-
-B.Tech — Electronics and Communication Engineering (ECE)
-
-SRM University AP
-
----
-
-# ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub!
-
----
